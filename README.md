@@ -1,6 +1,6 @@
 # Dons musikkspill :)
 
-> **Merk:** Alt under er skrevet av KI. Det er bare for at folk skal forstå hva faen som skjer i programmet.
+> **Merk:** En del under er skrevet av KI fordi jeg er lat. Det er bare for at folk skal forstå hva faen som skjer i programmet.
 
 ---
 

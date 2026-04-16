@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox alignment="CENTER" spacing="20" style="-fx-background-color: #2b2b2b; -fx-padding: 40;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="don.vo.TutorialController">
+    <Label text="Slik spiller du" style="-fx-text-fill: white; -fx-font-size: 24; -fx-font-weight: bold;" />
+    
+    <TextArea fx:id="helpTextArea" editable="false" wrapText="true" 
+              style="-fx-control-inner-background: #3c3f41; -fx-text-fill: white; -fx-font-family: 'Monospaced';" 
+              prefHeight="400.0" prefWidth="600.0" />
+              
+    <Button text="Tilbake til meny" onAction="#handleBack" style="-fx-background-color: #4CAF50; -fx-text-fill: white;" />
+</VBox>
+
