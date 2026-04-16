@@ -12,10 +12,15 @@ public class TutorialController {
                DONS MUSIKKSPILL :)
     =========================================
     
-    ALT UNDER ER SKREVET AV KI.
-    Det er bare for at folk skal forstå hva
+    Noe under er KI generert fordi jeg er lat
+    Her er en tutorial for at folk skal forstå hva
     faen som skjer i programmet.
     
+    VIKTIG: - Ikke alle nivåer har blitt laget enda. Noen sanger har derfor ingen noter som 
+              går nedover skjermen
+            - Pass på latency, spill med høyttaler / headset med lav latency.
+            - Keybinds finner du under og kan endres dersom du har tilgang til koden.  
+
     -----------------------------------------
     🎧 LATENCY (FORSINKELSE)
     -----------------------------------------
@@ -23,8 +28,8 @@ public class TutorialController {
     kan det oppstå en forsinkelse mellom lyden 
     og det du ser på skjermen.
     
-    VIKTIG: 
-    Du kan justere dette manuelt i koden. Gå til 
+
+    Du kan justere dette manuelt i koden. (Du har sannsynligvis ikke tilgang, så glem dette) Gå til 
     klassen 'GameStateData' og finn det statiske 
     feltet for latency. 
     
@@ -40,8 +45,8 @@ public class TutorialController {
     -----------------------------------------
     ⌨️ KEYBINDS
     -----------------------------------------
-    Høyre hånd:  Q, W, E, R, V
-    Venstre hånd: B, U, I, O, P
+    Venstre hånd:  Q, W, E, R, V
+    Høyre hånd  :  B, U, I, O, P
     
     -----------------------------------------
     🎮 OM SPILLET
@@ -58,6 +63,8 @@ public class TutorialController {
     -----------------------------------------
     🎹 LAGE EGNE NIVÅER
     -----------------------------------------
+    (Det er lettere å lage nivå dersom du har tilgang til koden fordi 
+    du kan enkelt slette og legge til filer)
     Spill en sang og trykk på tastene mens 
     musikken går for å lage et nivå:
     
