@@ -16,11 +16,20 @@ public class TutorialController {
     Her er en tutorial for at folk skal forstå hva
     faen som skjer i programmet.
     
-    VIKTIG: - Ikke alle nivåer har blitt laget enda. Noen sanger har derfor ingen noter som 
+    VIKTIG: - Ikke alle nivåer har blitt laget enda. 
+              Noen sanger har derfor ingen noter som 
               går nedover skjermen
             - Pass på latency, spill med høyttaler / headset med lav latency.
             - Keybinds finner du under og kan endres dersom du har tilgang til koden.  
 
+    EKSEMPLER PÅ SANGER MED FORHÅNDSLAGDE NIVÅER:
+    - As it was
+    - APT
+    - Level Complete
+    - Super Mario Bros
+    - Gravity Falls
+
+    
     -----------------------------------------
     🎧 LATENCY (FORSINKELSE)
     -----------------------------------------
