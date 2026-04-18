@@ -12,15 +12,18 @@ public class TutorialController {
                DONS MUSIKKSPILL :)
     =========================================
     
-    Noe under er KI generert fordi jeg er lat
-    Her er en tutorial for at folk skal forstå hva
-    faen som skjer i programmet.
+    Her er en delvis KI-skrevet tutorial. 
     
-    VIKTIG: - Ikke alle nivåer har blitt laget enda. 
+    VIKTIG: 
+            - Keybinds finner du under og kan endres dersom 
+              du har tilgang til koden.
+            - Dersom du bruker linux, må du kanskje laste 
+              ned ekstra for å få JavaFX MediaPlayer til å funke
+            - Ikke alle nivåer har blitt laget enda. 
               Noen sanger har derfor ingen noter som 
               går nedover skjermen
-            - Pass på latency, spill med høyttaler / headset med lav latency.
-            - Keybinds finner du under og kan endres dersom du har tilgang til koden.  
+            - Pass på latency, spill med høyttaler/
+              headset med lav latency.
 
     EKSEMPLER PÅ SANGER MED FORHÅNDSLAGDE NIVÅER:
     - As it was
@@ -29,7 +32,27 @@ public class TutorialController {
     - Super Mario Bros
     - Gravity Falls
 
+    For å velge sang må du trykke på tittelen til den aktuelle sangen
+    Beklager for dårlig AFFORDANCE 💩
+
+     -----------------------------------------
+    ⌨️ KEYBINDS
+    -----------------------------------------
+    Venstre hånd:  Q, W, E, R, V
+    Høyre hånd  :  B, U, I, O, P
+   
+    -----------------------------------------
+    🎮 OM SPILLET
+    -----------------------------------------
+    Dette er et musikk‑rytmespill inspirert av 
+    Guitar Hero og Osu. Du kan legge til egne 
+    sanger i MP3‑format og lage egne nivåer.
     
+    * Kuler faller i takt med musikken.
+    * Trykk på riktig tast når kulen treffer 
+      linjen (gitarbåndet).
+    * Poeng gis basert på timing og farge.
+
     -----------------------------------------
     🎧 LATENCY (FORSINKELSE)
     -----------------------------------------
@@ -52,24 +75,6 @@ public class TutorialController {
     ikke å lage et system for det.
     
     -----------------------------------------
-    ⌨️ KEYBINDS
-    -----------------------------------------
-    Venstre hånd:  Q, W, E, R, V
-    Høyre hånd  :  B, U, I, O, P
-    
-    -----------------------------------------
-    🎮 OM SPILLET
-    -----------------------------------------
-    Dette er et musikk‑rytmespill inspirert av 
-    Guitar Hero og Osu. Du kan legge til egne 
-    sanger i MP3‑format og lage egne nivåer.
-    
-    * Kuler faller i takt med musikken.
-    * Trykk på riktig tast når kulen treffer 
-      linjen (gitarbåndet).
-    * Poeng gis basert på timing og farge.
-    
-    -----------------------------------------
     🎹 LAGE EGNE NIVÅER
     -----------------------------------------
     (Det er lettere å lage nivå dersom du har tilgang til koden fordi 
@@ -80,9 +85,7 @@ public class TutorialController {
     1. Tastetrykk lagres automatisk i en .txt-fil.
     2. VIKTIG: Lag en ny .txt-fil manuelt hvis du 
        ikke vil overskrive tidligere nivåer.
-    3. Filene kan importeres senere for å 
-       generere nivået automatisk.
-    
+
     =========================================
     Lykke til!
     """;
